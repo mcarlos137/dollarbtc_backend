@@ -8,6 +8,13 @@ The DollaBTC Backend project provides services to support the business model of 
 4. KaiKai Wallet & Social Services
 
 
+## Installation from source
+
+Dependencies:
+* Apache Maven 3
+* Docker
+  
+
 ## Create Docker Container:
 
 Follow the steps below to create a Docker Container to run the project and test it.
