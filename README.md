@@ -13,4 +13,8 @@ Follow the steps below to create a Docker Container to run the project and test 
 
 ### Step 1: Clone Git Project
 
-git clone https://github.com/mcarlos137/dollarbtc_backend.git
+  git clone https://github.com/mcarlos137/dollarbtc_backend.git
+
+### Step 1: Move to main folder
+
+  cd dollarbtc_backend
