@@ -39,7 +39,12 @@ Using jib-maven-plugin to create a clean image to serve at 8080/tcp port
 
 ### Step 5: Create & Run Docker Container
 
-    
+    docker run -it --name dollarbtc_backend -v dollarbtc_backend:/MAIN -p 9090:8080 dollarbtc_backend
+
+
+### Step 6: Test Service
+
+Use Web browser to test http://localhost:9090/user/getConfig/584245522788/OK
 
 
 
