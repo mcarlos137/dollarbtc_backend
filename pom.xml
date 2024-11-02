@@ -17,7 +17,7 @@
         <module>dollarbtc_cryptocurrency_exchange_bridge_backend-jar</module>
         <module>dollarbtc_cryptocurrency_exchange_calculation_backend-jar</module>
         <module>dollarbtc_cryptocurrency_exchange_hitbtc_backend-jar</module>
-        <module>/MAIN/dollarbtc_cryptocurrency_exchange_localbitcoins_backend-jar</module>
+        <module>dollarbtc_cryptocurrency_exchange_localbitcoins_backend-jar</module>
         <module>dollarbtc_cryptocurrency_exchange_service-jar</module>
     </modules>
 
